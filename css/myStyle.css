@@ -1,0 +1,33 @@
+header {
+	background: url(../img/bg-header-scale.jpg) fixed;
+	box-shadow: 0px 0px 40px 0px rgba(0, 0, 0, 1) inset;
+}
+
+/* cv */
+#cv {
+	background: url("../img/cv/fond2.jpg") fixed;
+	box-shadow: 0px 0px 40px 0px rgba(0, 0, 0, 1) inset;
+}
+
+#li-cv-master {
+	list-style: none;
+}
+
+/* Contact */
+section#contact {
+	background-attachment: fixed;
+	box-shadow: 0px 0px 40px 0px white inset;
+}
+
+/* Autre */
+
+/* padding aux panel pour que le text ne soit pas colé */
+.panel {
+	/* 	padding: 15px; */
+	
+}
+
+/* Plus lisible CV2 */
+.timeline>li .timeline-panel {
+	text-align: left;
+}
